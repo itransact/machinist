@@ -2,7 +2,10 @@
 
 Forked and updated from the original machinist code for a Rails 5 upgrade around December 2017.
 
-To run tests `bundle exec rake` or `bundle exec rspec`.
+To run tests
+
+  - `cd spec; docker-compose up`
+  - `bundle exec rake` (or `bundle exec rspec`; both work.)
 
 The version is 5 to reflect the break from the official code, as well as support for Rails 5.
 
