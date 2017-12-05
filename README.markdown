@@ -1,4 +1,12 @@
-# Machinist 2
+# ~~Machinist 2~~ Stolen Machinist
+
+Forked and updated from the original machinist code for a Rails 5 upgrade around December 2017.
+
+To run tests `bundle exec rake` or `bundle exec rspec`.
+
+
+## Original Introduction
+
 
 *Fixtures aren't fun. Machinist is.*
 
