@@ -4,6 +4,7 @@ Forked and updated from the original machinist code for a Rails 5 upgrade around
 
 To run tests `bundle exec rake` or `bundle exec rspec`.
 
+The version is 5 to reflect the break from the official code, as well as support for Rails 5.
 
 ## Original Introduction
 
